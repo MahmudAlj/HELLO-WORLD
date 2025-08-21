@@ -49,7 +49,7 @@ first(){
 
 
 first(int durn){
-    std::string text = "hello world i am gay";
+    std::string text = "hello world i am mahmud";
     std::string temp = " ";
 
     for (char ch : text) {
